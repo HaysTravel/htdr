@@ -1,11 +1,11 @@
 @font-face {
   font-family: Gotham_Book;
-  src: url(Fonts/GothamBook.ttf);
+  src: url(fonts/GothamBook.ttf);
 }
 
 @font-face {
   font-family: Gotham_Bold;
-  src: url(Fonts/Gotham-Bold.otf);
+  src: url(fonts/Gotham-Bold.otf);
 }
 
 html {
@@ -43,6 +43,10 @@ h1 {
     margin: 0 auto;
     max-width: 1020px;
     padding: 20px;
+}
+
+.icon-container {
+  padding-top: 10px;
 }
 
 .tick {
