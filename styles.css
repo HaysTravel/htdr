@@ -71,6 +71,7 @@ h1 {
 .tel {
   font-size: 2rem;
   font-weight: 600;
+  margin-top: 0;
 }
 
 .icon {
@@ -78,4 +79,9 @@ h1 {
   height: 40px;
   margin-right: 10px;
   text-decoration: none;
+}
+
+.bold {
+  font-weight: 600;
+  margin: 0;
 }
