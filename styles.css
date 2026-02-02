@@ -71,7 +71,7 @@ h1 {
 .tel {
   font-size: 2rem;
   font-weight: 600;
-  margin-top: 0;
+  margin-top: 16px;
 }
 
 .icon {
@@ -82,6 +82,7 @@ h1 {
 }
 
 .bold {
+  font-size: 2rem;
   font-weight: 600;
   margin: 0;
 }
