@@ -46,7 +46,7 @@ h1 {
 }
 
 .icon-container {
-  padding-top: 20px;
+  padding-top: 16px;
 }
 
 .tick {
@@ -71,7 +71,8 @@ h1 {
 .tel {
   font-size: 2rem;
   font-weight: 600;
-  margin-top: 16px;
+  margin-top: 0;
+  margin-bottom: 16px;
 }
 
 .icon {
@@ -85,4 +86,14 @@ h1 {
   font-size: 2rem;
   font-weight: 600;
   margin: 0;
+  margin-bottom: 16px;
+}
+
+.oops {
+  font-size: 4rem;
+}
+
+ul {
+  margin: 0;
+  padding-left: 25px;
 }
